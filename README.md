@@ -150,5 +150,4 @@ Two charts are displayed:
 * GPU is **not required**, since the project uses only classical ML.
 
 ---
-• a notebook version
-• GitHub-ready badges and styling for this README
+
