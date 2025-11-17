@@ -107,7 +107,7 @@ This will install:
 Run the following command:
 
 ```
-python pathloss_all_models_pipeline_ml_only_clean.py
+python app.py
 ```
 
 The script will:
